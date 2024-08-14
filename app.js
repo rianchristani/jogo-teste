@@ -66,8 +66,4 @@ function reiniciarJogo() {
 }
 
 
-
-
-
-
-
+let teste()
