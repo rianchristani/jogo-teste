@@ -1,0 +1,25 @@
+[33mcommit e7d73cde8e216bf76a7c889443a08fb679ba9524[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Rian Christani <rianchristani@hotmail.com>
+Date:   Tue Aug 13 21:08:57 2024 -0300
+
+    Revert "Alterar limite lista 100"
+    
+    This reverts commit e6d33df30f1f18fe2b7c26a483eae573f3e593f4.
+
+[33mcommit 2d36add04277749d50408695ca92d50e67314ce5[m
+Author: Rian Christani <rianchristani@hotmail.com>
+Date:   Tue Aug 13 19:51:44 2024 -0300
+
+    Alterar número pra 50
+
+[33mcommit e6d33df30f1f18fe2b7c26a483eae573f3e593f4[m
+Author: Rian Christani <rianchristani@hotmail.com>
+Date:   Sat Aug 3 14:08:20 2024 -0300
+
+    Alterar limite lista 100
+
+[33mcommit e964458d94b28a1d1355ae158af0a05a8d026b08[m
+Author: Rian Christani <rianchristani@hotmail.com>
+Date:   Sat Aug 3 12:02:42 2024 -0300
+
+    projeto inical
